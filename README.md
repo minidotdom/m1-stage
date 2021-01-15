@@ -1,1 +1,1 @@
-# m1-stage
+# minidotdom.github.io
